@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_fastapi",
+  "sourceSha": "af8b7d137bbdb9ac211233a19244e32d25ffeb43",
+  "templateId": "fastapi",
+  "managedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "c526514807261fc80facbd10a1477ba0d08504558dd2c31ce4affe82f7af9fc9"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "1150c3b8afc5107030b94a5e6be5c11545fbf09c5fb454c2f36d3e5a5a3c4966"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "cdd5c7a86af7a57cd22469897b0c5705d5ed65f4ecfda4d0c95043f62cd5d7f0"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "5003a2c83c32dd3069df4a579627543caee5af93f1fc8f902c0a902cb349e7f3"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "81b76a88639263c9308cfbd3d548af41817212842025ce32a0dc37b078b54ef6"
+    },
+    {
+      "path": "app/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/main.py",
+      "sha256": "13a0bc5ae87ebe772a1ed81680059e05a8ca4e17ccf8ec89e011fd2cc90c17c8"
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "e8c4628ed8f1f109ed9455dff39a67374c0711c7e24e6a5114517abe41fb61db"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8cdecc0a082622b72f2aecd1ec8224431a0a7e2a927a8beb01d5dea1097ba566"
+    },
+    {
+      "path": "tests/test_routes.py",
+      "sha256": "bc4a5e6a6201b64f0517b1ce17c26fdcea369fc756bc456129d590fbbc3f3a26"
+    }
+  ]
+}
