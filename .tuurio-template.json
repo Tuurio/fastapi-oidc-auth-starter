@@ -1,8 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_fastapi",
-  "sourceSha": "30f4a6bbcbfd356b338471b6f12c0370901e1977",
+  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
+  "packageSha256": "da771bcf6fd0124f49f6bd718afeefd4387c420dc47fb8ff52b5ce3e4af1e710",
   "templateId": "fastapi",
   "managedFiles": [
     {
