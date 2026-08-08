@@ -39,7 +39,7 @@ app.add_middleware(SessionMiddleware, secret_key=os.getenv("TUURIO_SESSION_SECRE
 def validate_config() -> None:
     issuer = os.getenv("TUURIO_ISSUER", "").strip()
     client_id = os.getenv("TUURIO_CLIENT_ID", "").strip()
-    if not issuer or not client_id or client_id.startswith("YOUR_"):
+    if not issuer or "YOUR_" in issuer or not client_id or client_id.startswith("YOUR_"):
         raise RuntimeError("TUURIO_ISSUER and TUURIO_CLIENT_ID must be configured.")
     parsed = urlparse(issuer)
     issuer_loopback = parsed.hostname in {"localhost", "127.0.0.1", "::1"}

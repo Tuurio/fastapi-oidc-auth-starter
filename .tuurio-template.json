@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_fastapi",
-  "sourceSha": "6833b4a83ac9aaa09f289f5de9d02aa1fa053e7d",
-  "packageSha256": "da771bcf6fd0124f49f6bd718afeefd4387c420dc47fb8ff52b5ce3e4af1e710",
+  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
+  "packageSha256": "3400334f63c0d8e3307af933d464bbd44515c2f7bd9465086694bb06a045d451",
   "templateId": "fastapi",
   "managedFiles": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "path": "app/main.py",
-      "sha256": "13a0bc5ae87ebe772a1ed81680059e05a8ca4e17ccf8ec89e011fd2cc90c17c8"
+      "sha256": "8b730297f63e6973f608b9630bc37f773bc67522015de2a1a8f3e38e0298101d"
     },
     {
       "path": "pyproject.toml",
@@ -48,7 +48,7 @@
     },
     {
       "path": "tests/test_routes.py",
-      "sha256": "bc4a5e6a6201b64f0517b1ce17c26fdcea369fc756bc456129d590fbbc3f3a26"
+      "sha256": "350efe51ea1499fea4a56ab9ae8c4aac8b5c145e322f24b08fd79577ab9a128a"
     }
   ]
 }
