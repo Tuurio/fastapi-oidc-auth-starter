@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_fastapi",
-  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
-  "packageSha256": "7c5dcbf0250f2b36b688a0baf2297e93fc37a3b605e86acd1160fac74b6d79d4",
+  "sourceSha": "7e52e3bf428164ad36fd550011263ac9d6848761",
+  "packageSha256": "7558e6a77d067c44c9859148e999325f5bcc3adb859bbd2b098dcd82048eaa94",
   "templateId": "fastapi",
   "managedFiles": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "path": ".github/workflows/verify.yml",
-      "sha256": "1150c3b8afc5107030b94a5e6be5c11545fbf09c5fb454c2f36d3e5a5a3c4966"
+      "sha256": "3105072f1429f24871a25b17638f8e0f7044ce4e383e09c0f2a4fad5615a13fa"
     },
     {
       "path": ".gitignore",
